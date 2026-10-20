@@ -1,0 +1,17 @@
+{
+  "creativeTab.bodypillow": "等身抱枕",
+  "item.bodypillow.body_pillow": "等身抱枕",
+  "item.bodypillow.body_pillow_named": "等身抱枕：%s",
+  "item.bodypillow.pattern_blueprint": "抱枕图案",
+  "item.bodypillow.pattern_blueprint_named": "抱枕图案：%s",
+  "item.bodypillow.random_design": "抱枕图案（未解锁）",
+  "entity.bodypillow.body_pillow": "等身抱枕",
+  "tooltip.bodypillow.hug": "右键地面/床：平放；潜行+右键地面：立放；右键墙面：挂墙",
+  "tooltip.bodypillow.blank": "空白抱枕，与图案一起合成即可印上图案",
+  "tooltip.bodypillow.flip": "潜行 + 右键：翻面",
+  "tooltip.bodypillow.design_usage": "与空白抱枕一起合成，印上图案",
+  "tooltip.bodypillow.design_unlock": "右键解锁一张随机图案",
+  "tooltip.bodypillow.pack": "图案包：%s（%s/%s）",
+  "tooltip.bodypillow.name": "名称：%s",
+  "tooltip.bodypillow.author": "作者：%s"
+}

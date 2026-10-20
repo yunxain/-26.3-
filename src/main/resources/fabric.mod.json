@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "bodypillow",
+  "version": "${version}",
+  "name": "Body Pillow / 等身抱枕",
+  "description": "Life-size body pillows with custom printable patterns. 等身抱枕：可印图案、可自定义 png。",
+  "authors": ["you"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.bodypillow.BodyPillowMod"],
+    "client": ["com.bodypillow.client.BodyPillowClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "${mc}",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

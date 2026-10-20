@@ -1,0 +1,17 @@
+{
+  "creativeTab.bodypillow": "Dakimakura",
+  "item.bodypillow.body_pillow": "Dakimakura",
+  "item.bodypillow.body_pillow_named": "Dakimakura: %s",
+  "item.bodypillow.pattern_blueprint": "Dakimakura Design",
+  "item.bodypillow.pattern_blueprint_named": "Dakimakura Design: %s",
+  "item.bodypillow.random_design": "Dakimakura Design (Locked)",
+  "entity.bodypillow.body_pillow": "Dakimakura",
+  "tooltip.bodypillow.hug": "Right click ground/bed: lay flat; sneak + right click ground: stand; right click a wall: hang",
+  "tooltip.bodypillow.blank": "Blank. Craft with a design to print it",
+  "tooltip.bodypillow.flip": "Sneak + Right Click: flip",
+  "tooltip.bodypillow.design_usage": "Craft with a blank dakimakura to print it",
+  "tooltip.bodypillow.design_unlock": "Right click to unlock a random design",
+  "tooltip.bodypillow.pack": "Pack: %s (%s/%s)",
+  "tooltip.bodypillow.name": "Name: %s",
+  "tooltip.bodypillow.author": "Author: %s"
+}

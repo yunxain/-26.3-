@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["WW", "WW", "WW"],
+  "key": { "W": "#minecraft:wool" },
+  "result": { "id": "bodypillow:body_pillow", "count": 1 }
+}

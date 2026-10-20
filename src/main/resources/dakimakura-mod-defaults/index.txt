@@ -1,0 +1,13 @@
+SamplePack/pack-info.json
+SamplePack/Sunset/front.png
+SamplePack/Sunset/back.png
+SamplePack/Sunset/daki-info.json
+SamplePack/Stars/front.png
+SamplePack/Stars/back.png
+SamplePack/Stars/daki-info.json
+SamplePack/Stripes/front.png
+SamplePack/Stripes/back.png
+SamplePack/Stripes/daki-info.json
+SamplePack/Heart/front.png
+SamplePack/Heart/back.png
+SamplePack/Heart/daki-info.json
